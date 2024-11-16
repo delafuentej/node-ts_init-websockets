@@ -1,12 +1,28 @@
 # Project: Intro_WebSockets
 
+## Content:
+
+- Native Web Browser Implementation for WS
+
+- WS Library for our server
+
+- Minimal configuration on the server
+
+- Broadcasts:
+
+        Client
+
+        Server
+
+- Manual reconnection in case of communication loss
+
+
+## Instructions
+
 This repository contains the application divided into two parts:
 
 - **Frontend**: Folder `client/`, contains the user interface.
 - **Backend**: Folder `server/`, contains the websockets server.
-
-
-## Instructions
 
 ### Frontend
 1. Navigate to the `client/` folder: ```cd client```.
