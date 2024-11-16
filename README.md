@@ -10,9 +10,9 @@
 
 - Broadcasts:
 
-        Client
+        * Client
 
-        Server
+        * Server
 
 - Manual reconnection in case of communication loss
 
